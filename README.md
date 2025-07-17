@@ -1,6 +1,7 @@
 Generalized squeezing as a witness of various quantum properties 
 
 Šimon Bräuer, Tomáš Opatrný and Petr Marek
+
 Department of Optics, Faculty of Science, Palacký University, 17. Listopadu 12, 77146 Olomouc, Czech Republic
 
 The attached codes are used to calculate the data published in the article: Generalized squeezing as a witness of various quantum properties. 
